@@ -1460,15 +1460,15 @@
 		flex-wrap: wrap;
 		justify-content: space-between;
 		color: black;
-		box-sizing: border-box; /* include padding/margin in width calculations */
+		box-sizing: border-box; 
 	}
 
 	.icon-item {
-		flex: 1 1 calc(33.33% - 10px); /* 3 per row on large screens */
+		flex: 1 1 calc(33.33% - 10px); 
 		margin: 5px;
 		text-align: center;
-		padding: 50px 20px; /* shorthand: top/bottom 50px, left/right 20px */
-		box-sizing: border-box; /* important! */
+		padding: 50px 20px; 
+		box-sizing: border-box; 
 		box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 	}
 
