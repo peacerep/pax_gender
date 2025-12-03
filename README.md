@@ -57,6 +57,6 @@ let path = [
 6. Git:
 ```bash
 git add .
-git commit -m "Add new logo"
+git commit -m "message"
 git push
 ```
